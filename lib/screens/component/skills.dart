@@ -44,6 +44,7 @@ class Skills extends StatelessWidget {
           percentage: 0.5, 
           label: "Firebase",
           ),
+          
         ),
         
       ],

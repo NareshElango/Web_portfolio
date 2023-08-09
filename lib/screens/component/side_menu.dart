@@ -99,7 +99,7 @@ class SideMenu extends StatelessWidget {
                   TextButton(
                     onPressed: () async {
                       const resumeUrl =
-                          "https://drive.google.com/file/d/1hcUd0P6qni_v8cwmV5vugsFh-T-wJLQP/view?usp=share_link";
+                          "https://drive.google.com/file/d/1gDHTz0zS-fW8pzIUiKBnTOeSoY8htt7Z/view?usp=sharing";
                       if (await canLaunch(resumeUrl)) {
                         await launch(resumeUrl);
                       } else {

@@ -40,7 +40,7 @@ class Coding extends StatelessWidget {
        ), 
         AnimatedLinearProgressIndicator(
         percentage: 0.3,
-        label: "Python",
+        label: "MySQL",
        ),
       ],
     );
